@@ -148,7 +148,7 @@ function Queue() {
 					</li>
 				))}
 			</ul>
-			<h2>Unqueued People</h2>
+			<h2>Unqueued people</h2>
 			<ul>
 				{peopleNotInQueue.value.map(person => (
 					<li>
